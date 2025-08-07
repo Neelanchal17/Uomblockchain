@@ -115,7 +115,8 @@ background: linear-gradient(90deg,rgba(148, 140, 255, 1) 0%, rgba(18, 59, 181, 1
             display: block;
             width: 30px;
             height: 3px;
-            background: white;
+
+            background: rgb(25, 105, 218);
             margin: 6px 0;
             border-radius: 3px;
             transition: all 0.3s ease;
@@ -160,7 +161,9 @@ background: linear-gradient(90deg,rgba(148, 140, 255, 1) 0%, rgba(18, 59, 181, 1
             width: 100%;
             text-align: center;
         }
-
+                .member-btn a:hover {
+            color: #f8f9fa;
+        }
         .overlay {
             position: fixed;
             top: 0;

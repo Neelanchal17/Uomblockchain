@@ -103,7 +103,11 @@ background: linear-gradient(90deg,rgba(148, 140, 255, 1) 0%, rgba(18, 59, 181, 1
 
         .member-btn:hover {
             transform: translateY(-3px);
+
             box-shadow: 0 6px 20px rgba(76, 201, 240, 0.6);
+        }
+        .member-btn a:hover {
+            color: #f8f9fa;
         }
 
         /* Hamburger Menu */
@@ -119,7 +123,7 @@ background: linear-gradient(90deg,rgba(148, 140, 255, 1) 0%, rgba(18, 59, 181, 1
             display: block;
             width: 30px;
             height: 3px;
-            background: white;
+            background: rgb(25, 105, 218);
             margin: 6px 0;
             border-radius: 3px;
             transition: all 0.3s ease;
