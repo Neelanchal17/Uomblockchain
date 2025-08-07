@@ -48,7 +48,7 @@
         .contact-form-btn {
             width: 100%;
             padding: 14px 0;
-            background: linear-gradient(90deg,rgba(148,140,255,1) 0%,rgba(9,226,230,1) 100%);
+  background: linear-gradient(90deg,rgba(148, 140, 255, 1) 0%, rgba(18, 59, 181, 1) 0%, rgba(9, 226, 230, 1) 100%, rgba(72, 217, 202, 1) 100%);
             color: #fff;
             border: none;
             border-radius: 30px;

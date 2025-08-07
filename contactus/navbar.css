@@ -168,7 +168,7 @@ background: linear-gradient(90deg,rgba(148, 140, 255, 1) 0%, rgba(18, 59, 181, 1
         .member-btn a:hover {
             color: #f8f9fa;
         }
-        
+
         .overlay {
             position: fixed;
             top: 0;
@@ -193,7 +193,7 @@ background: linear-gradient(90deg,rgba(148, 140, 255, 1) 0%, rgba(18, 59, 181, 1
             margin: 20px auto;
         }
 
-        .hero span {
+        .contact-card span {
             font-size: 3.5rem;
             color: #0d3b66;
             margin-bottom: 10px;

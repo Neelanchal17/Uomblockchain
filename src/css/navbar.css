@@ -106,6 +106,13 @@ background: linear-gradient(90deg,rgba(148, 140, 255, 1) 0%, rgba(18, 59, 181, 1
 
             box-shadow: 0 6px 20px rgba(76, 201, 240, 0.6);
         }
+
+        /* EIther keep the "become a member' button as white or black */
+        .member-btn a {
+            color: #F9F3EF;
+        }
+
+        /* ------------- */
         .member-btn a:hover {
             color: #f8f9fa;
         }
