@@ -18,6 +18,8 @@
             margin: 0 auto;
         }
 
+
+
         .grid a {
             text-decoration: none;
         }
@@ -100,6 +102,11 @@ background: linear-gradient(90deg,rgba(148, 140, 255, 1) 0%, rgba(18, 59, 181, 1
             transition: all 0.3s ease;
             box-shadow: 0 4px 15px rgba(76, 201, 240, 0.4);
         }
+
+        .member-btn a {
+            color: #F9F3EF;
+        }
+
 
         .member-btn:hover {
             transform: translateY(-3px);

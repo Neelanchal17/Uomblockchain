@@ -112,6 +112,11 @@ background: linear-gradient(90deg,rgba(148, 140, 255, 1) 0%, rgba(18, 59, 181, 1
             z-index: 1000;
         }
 
+
+        .member-btn a {
+            color: #F9F3EF;
+        }
+
         .hamburger span {
             display: block;
             width: 30px;
